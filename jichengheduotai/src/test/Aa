@@ -1,0 +1,16 @@
+public static void main(String[] args) {
+    int a = 5;
+    int s = 0;
+    switch (a) {
+    case 5:
+        s = s + 2;
+    case 3:
+        s = s + 5;
+    case 8:
+        s = s + 6;
+    default:
+        s = s + 10;
+        break;
+    }
+    System.out.print(s);
+}
