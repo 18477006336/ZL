@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- 根元素：一个XML只有一个根元素 -->
+<!-- 元素 节点：元素节点 文本节点 -->
+<files>
+	<filepath>
+		D:\310\33.jpg
+	</filepath>、
+</files>
